@@ -1,0 +1,301 @@
+[{
+  "_id": "CH003",
+  "tenmonhoc": "MH001",
+  "tencauhoi": "Cho một hình đa diện. Khẳng định nào là khẳng định sai trong các khẳng định sau ? ",
+  "tralois": [
+    "A. Mỗi đỉnh là một đỉnh chung của ít nhất 3 măt",
+    "B. Mỗi mặt có ít nhất 3 cạnh",
+    "C. Mỗi đỉnh là một đỉnh chung của ít nhất 3 cạnh",
+    "D. Mỗi cạnh là cạnh chung  ít nhất 3 mặt "
+  ]
+},{
+  "_id": "CH007",
+  "tenmonhoc": "MH001",
+  "tencauhoi": "Trên tia Ox, vẽ ba đoạn thẳng OA, OB, OC sao cho OA = 2cm, OB = 4cm, OC = 8cm . Kết luận nào sau đây đúng?",
+  "tralois": [
+    "A. OA > AB",
+    "B. OB > BC",
+    "C. BA < BC",
+    "OC < AB"
+  ]
+},{
+  "_id": "CH008",
+  "tenmonhoc": "MH001",
+  "tencauhoi": "Chọn kết quả đúng điền vào chỗ chấm: 85 + 99 + 1 = ..........",
+  "tralois": [
+    "A. 100",
+    "B. 140",
+    "C. 175",
+    "D. 185"
+  ]
+},{
+  "_id": "CH009",
+  "tenmonhoc": "MH001",
+  "tencauhoi": "Một quỹ tiết kiệm ngày đầu nhận được 75 500 000 đồng, ngày thứ hai nhận được 86 950 000 đồn, ngày thứ ba nhận được 14 500 000 đồng. Hỏi cả ba ngày quỹ tiết kiệm đó nhận được bao nhiêu tiền?",
+  "tralois": [
+    "A. 166 950 000 đồng",
+    "B. 176 950 000 đồng",
+    "C. 156 950 000 đồng",
+    "D. 186 950 000 đồng"
+  ]
+},{
+  "_id": "CH010",
+  "tenmonhoc": "MH001",
+  "tencauhoi": "Đa thức 4x(2y – z) + 7y(z – 2y) được phân tích thành nhân tử là:",
+  "tralois": [
+    "A. (2y + z)(4x – 7y)",
+    "B. (2y + z)(4x + 7y)",
+    "C. (2y – z)(4x + 7y) ",
+    "D. (2y – z)(4x – 7y)"
+  ]
+},{
+  "_id": "CH011",
+  "tenmonhoc": "MH001",
+  "tencauhoi": "Giá trị của x thoả mãn 2x(x + 3) + 2(x + 3) = 0 là:",
+  "tralois": [
+    "A. 3 hoặc 1",
+    "B. 3 hoặc – 1",
+    "C. – 3 hoặc – 1",
+    "D. – 3 hoặc 1"
+  ]
+},{
+  "_id": "CH012",
+  "tenmonhoc": "MH001",
+  "tencauhoi": "Khẳng định nào sau đây là sai?",
+  "tralois": [
+    "A. Tứ giác có hai đường chéo vuông góc với nhau tại trung điểm của mỗi đường là hình thoi.",
+    "B. Tứ giác có hai đường chéo cắt nhau tại trung điểm của mỗi đường là hình bình hành.",
+    "C. Hình chữ nhật có hai đường chéo bằng nhau là hình vuông.",
+    "D. Hình chữ nhật có hai đường chéo vuông góc với nhau là hình vuông."
+  ]
+},{
+  "_id": "CH013",
+  "tenmonhoc": "MH001",
+  "tencauhoi": "Cho tam giác ABC vuông tại A, AC = 3cm, BC = 5cm. Diện tích của tam giác ABC bằng:",
+  "tralois": [
+    "A. 6cm2       ",
+    "B. 10cm2",
+    "C. 12cm2",
+    "D. 15cm2"
+  ]
+},{
+  "_id": "CH014",
+  "tenmonhoc": "MH001",
+  "tencauhoi": "Tứ giác có hai đường chéo cắt nhau tại trung điểm của mỗi đường là:",
+  "tralois": [
+    "A. Hình thoi",
+    "B. Hình thang cân",
+    "C. Hình chữ nhật",
+    "D. Hình bình hành"
+  ]
+},{
+  "_id": "CH015",
+  "tenmonhoc": "MH001",
+  "tencauhoi": "Hình chữ nhật là tứ giác:",
+  "tralois": [
+    "A. Có hai cạnh vừa song song vừa bằng nhau. ",
+    "B. Có bốn góc vuông.",
+    "C. Có bốn cạnh bằng nhau.",
+    "D. Có bốn cạnh bằng nhau và bốn góc vuông"
+  ]
+},{
+  "_id": "CH016",
+  "tenmonhoc": "MH002",
+  "tencauhoi": "Thực dân Anh tiến hành “Chiến tranh thuốc phiện” mở đầu cho phương Tây xâm lược Trung Quốc vào năm nào?",
+  "tralois": [
+    "A. 1840- 1842",
+    "B. 1840- 1841",
+    "C. 1840- 1844",
+    "D. 1841- 1842"
+  ]
+},{
+  "_id": "CH017",
+  "tenmonhoc": "MH002",
+  "tencauhoi": "Đế quốc nào là nước đầu tiên chiếm Trung Quốc",
+  "tralois": [
+    "A. Pháp",
+    "B. Anh",
+    "C. Mĩ",
+    "D. Đức"
+  ]
+},{
+  "_id": "CH018",
+  "tenmonhoc": "MH002",
+  "tencauhoi": "Cách mạng Tân Hợi kết thúc vào ngày nào?",
+  "tralois": [
+    "A. 1/1923",
+    "B. 7/1922",
+    "C. 2/1922",
+    "D. 3/1923"
+  ]
+},{
+  "_id": "CH019",
+  "tenmonhoc": "MH002",
+  "tencauhoi": "Tại sao không phải một nước mà nhiều nước đế quốc cùng xâu xé, xâm lược Trung Quốc?",
+  "tralois": [
+    "A. Vì triều đình phong kiến Mãn Thanh còn rất mạnh.",
+    "B. Vì Trung Quốc đất rộng, người đông.",
+    "C. Vì phong trào đấu tranh của nhân dân Trung Quốc chống phong kiến mạnh",
+    "D. Vì triều đình phong kiến không chấp nhận con đường thỏa hiệp."
+  ]
+},{
+  "_id": "CH020",
+  "tenmonhoc": "MH002",
+  "tencauhoi": "Vùng nào của Trung Quốc chịu ảnh hưởng của Nhật?",
+  "tralois": [
+    "A. Bắc kinh",
+    "B. Đài Loan và Đông Bắc Trung Quốc",
+    "C. Hồng Kông",
+    "D. Thượng Hải"
+  ]
+},{
+  "_id": "CH021",
+  "tenmonhoc": "MH002",
+  "tencauhoi": "Vùng Vân Nam của Trung Quốc bị nước nào chiếm đóng?",
+  "tralois": [
+    "A. Nước Đức",
+    "B. Nước Pháp",
+    "C. Nước Anh",
+    "D. Nước Nhật"
+  ]
+},{
+  "_id": "CH022",
+  "tenmonhoc": "MH002",
+  "tencauhoi": "Cuộc khởi nghĩa Thái bình Thiên quốc do ai lãnh đạo?",
+  "tralois": [
+    "A. Khương Hữu Vi.",
+    "B. Lương Khải Siêu",
+    "C. Tôn Trung Sơn.",
+    "D. Hồng Tú Toàn."
+  ]
+},{
+  "_id": "CH023",
+  "tenmonhoc": "MH002",
+  "tencauhoi": "Máy móc đầu tiên xuất hiện ở",
+  "tralois": [
+    "A. Anh",
+    "B. Mĩ",
+    "C. Đức",
+    "D. Pháp"
+  ]
+},{
+  "_id": "CH024",
+  "tenmonhoc": "MH002",
+  "tencauhoi": "Niu-tơn đã phát minh ra:",
+  "tralois": [
+    "A. Chính trị kinh tế học tư bản",
+    "B. Thuyết tiến hóa và di truyền",
+    "C. Định luật bảo tòan vật chất và năng lượng",
+    "D. Thuyết vạn vật hấp dẫn"
+  ]
+},{
+  "_id": "CH025",
+  "tenmonhoc": "MH002",
+  "tencauhoi": "Sắt là nguyên liệu chủ yếu để sản xuất máy móc nên thế kỷ XIX được gọi là",
+  "tralois": [
+    "A. Thế kỉ của máy móc",
+    "B. Thế kỉ động cơ hơi nước",
+    "C. Thế kỷ của sắt",
+    "D. A, B, C đúng"
+  ]
+},{
+  "_id": "CH026",
+  "tenmonhoc": "MH003",
+  "tencauhoi": "Mai enjoys __________ to music, especially pop music in her free time.",
+  "tralois": [
+    "A. hearing",
+    "B. playing",
+    "C. listening",
+    "D. taking"
+  ]
+},{
+  "_id": "CH027",
+  "tenmonhoc": "MH003",
+  "tencauhoi": "You should avoid _________ too much TV. It’s not good for your eyes.",
+  "tralois": [
+    "A. seeing",
+    "B. looking",
+    "C. watching",
+    "D. glancing"
+  ]
+},{
+  "_id": "CH028",
+  "tenmonhoc": "MH003",
+  "tencauhoi": "Do you fancy around the West Lake with me this Sunday morning?",
+  "tralois": [
+    "A. going",
+    "B. having",
+    "C. staying",
+    "D. moving"
+  ]
+},{
+  "_id": "CH029",
+  "tenmonhoc": "MH004",
+  "tencauhoi": "Câu nào dưới đây sử dụng cách nói giảm, nói tránh?",
+  "tralois": [
+    "A. Nó đang ngủ ngon lành thật!",
+    "B. Dạo này nó lười học quá!",
+    "C. Cô ấy xinh quá nhỉ!",
+    "D. Dạo này trông anh không được hồng hào lắm!"
+  ]
+},{
+  "_id": "CH030",
+  "tenmonhoc": "MH004",
+  "tencauhoi": "Trong câu ghép, từ “nếu” là từ chỉ loại quan hệ nào?",
+  "tralois": [
+    "A. Quan hệ khả năng - điều kiện.",
+    "B. Quan hệ nội dung - hình thức.",
+    "C. Quan hệ bổ sung.",
+    "D. Quan hệ nguyên nhân - kết quả."
+  ]
+},{
+  "_id": "CH031",
+  "tenmonhoc": "MH004",
+  "tencauhoi": "Trong câu ghép không sử dụng quan hệ từ để nối các vế câu thì bắt buộc phải sử dụng dấu câu nào sau đây?",
+  "tralois": [
+    "A. Dấu hai chấm. ",
+    "B. Dấu chấm phẩy. ",
+    "C. Dấu phẩy. ",
+    "D. Dấu chấm."
+  ]
+},{
+  "_id": "CH032",
+  "tenmonhoc": "MH005",
+  "tencauhoi": "Trong 1 phản ứng hóa học ..... khối lượng của các chất sản phẩm bằng tổng khối lượng của các chất tham gia phản ứng",
+  "tralois": [
+    "A. Tổng",
+    "B. Tích",
+    "C. Hiệu",
+    "D. Thương"
+  ]
+},{
+  "_id": "CH033",
+  "tenmonhoc": "MH005",
+  "tencauhoi": "Chọn khẳng định sai",
+  "tralois": [
+    "A. Sự thay đổi liên kết giữa các nguyên tử",
+    "B. Sự thay đổi liên quan đến electron",
+    "C. Sự thay đổi liên quan đến notron",
+    "D. Số nguyên tử nguyên tố được giữ nguyên"
+  ]
+},{
+  "_id": "CH034",
+  "tenmonhoc": "MH005",
+  "tencauhoi": "Cho 9 (g) nhôm cháy trong không khí thu được 10,2 g nhôm oxit. Tính khối lượng oxi",
+  "tralois": [
+    "A. 1,7 g",
+    "B. 1,6 g",
+    "C. 1,5 g",
+    "D. 1,2 g"
+  ]
+},{
+  "_id": "CH035",
+  "tenmonhoc": "MH005",
+  "tencauhoi": "Nung đá vôi thu được vôi sống và khí cacbonic. Kết luận nào sau đây là đúng",
+  "tralois": [
+    "A. Khối lượng đá vôi bằng khối lượng vôi sống",
+    "B. Khối lượng đá vôi bằng khối lượng khí",
+    "C. Khối lượng đá vôi bằng khối lượng khí cacbonic cộng với khối lượng vôi sống",
+    "D. Không xác định"
+  ]
+}]

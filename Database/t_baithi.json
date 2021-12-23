@@ -1,0 +1,51 @@
+[{
+  "_id": "BT003",
+  "tenbaithi": "Toán cao cấp",
+  "tenmonhoc": "MH001",
+  "mota": "Toán dai hoc"
+},{
+  "_id": "BT001",
+  "ngaytao": {
+    "$date": "2021-11-18T09:11:24.184Z"
+  },
+  "tenbaithi": "Kiểm tra chất lượng",
+  "tenmonhoc": "MH001",
+  "mota": "Bài thi đầu năm"
+},{
+  "_id": "BT002",
+  "ngaytao": {
+    "$date": "2021-11-18T09:11:24.521Z"
+  },
+  "tenbaithi": "Kiểm tra 2",
+  "tenmonhoc": "MH001",
+  "mota": "Bài thi giữa kì"
+},{
+  "_id": "BT006",
+  "tenbaithi": "Toán",
+  "tenmonhoc": "MH001",
+  "mota": "Toán "
+},{
+  "_id": "BT007",
+  "ngaytao": {
+    "$date": "2021-11-18T09:11:24.184Z"
+  },
+  "tenbaithi": "Toán",
+  "tenmonhoc": "MH001",
+  "mota": "Bài kiểm tra 15 phút"
+},{
+  "_id": "BT009",
+  "ngaytao": {
+    "$date": "2021-11-18T09:11:24.184Z"
+  },
+  "tenbaithi": "Tiếng Anh",
+  "tenmonhoc": "MH003",
+  "mota": "Bài kiểm tra 60 phút"
+},{
+  "_id": "BT010",
+  "ngaytao": {
+    "$date": "2021-11-18T09:11:24.184Z"
+  },
+  "tenbaithi": "Ngữ Văn",
+  "tenmonhoc": "MH004",
+  "mota": "Bài kiểm tra cuối kì"
+}]
